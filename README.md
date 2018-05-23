@@ -1,0 +1,2 @@
+# MediaRecordingService
+后台按一定时间间隔进行录音并自动获取周围环境的分贝值
